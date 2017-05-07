@@ -1,1 +1,3 @@
 # trumpjack
+
+make trumpjack
